@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yooreixahn.xiaolong.li/sitemap.xml
